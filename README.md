@@ -1,2 +1,2 @@
 First:
-react,typescript, prettier, eslint, unittest, code coverage, etc
+react,typescript, prettier, eslint, unittest, code coverage, chakra-ui,etc
