@@ -17,9 +17,5 @@
     "jsx": "react-jsx"
   },
   "include": ["src"],
-  "exclude": [
-    "node_modules",
-    "public_html",
-    "test",
- ]
+  "exclude": ["node_modules", "public_html", "test"]
 }

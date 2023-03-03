@@ -1,5 +1,5 @@
 First:
-react,typescript, prettier, eslint, unittest, code coverage, chakra-ui,etc
+react,typescript, prettier, eslint, unittest, code coverage, chakra-ui,useContext etc
 
 Prettier:Formatting rules
 How to install?
@@ -23,4 +23,9 @@ function:
 statement vs lines: var x= 10; console.log(x) that's one line and 2 statements.
 
 Reference:https://www.softwaretestinghelp.com/code-coverage-tutorial/
+
+
+Context/UseContext:
+dont need to prop again and again!
+https://blog.webdevsimplified.com/2020-06/use-context/
 
