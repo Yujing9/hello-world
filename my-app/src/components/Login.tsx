@@ -1,4 +1,4 @@
-import { Button, Input } from "@chakra-ui/react";
+import { Button, Input } from "@chakra-ui/react"
 function Login() {
   return (
     <div>
@@ -6,6 +6,6 @@ function Login() {
       <Input placeholder="Password" />
       <Button colorScheme="blue">Button</Button>
     </div>
-  );
+  )
 }
-export default Login;
+export default Login

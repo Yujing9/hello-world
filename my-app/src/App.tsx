@@ -1,15 +1,14 @@
-import React from 'react';
-import './App.css';
-import HelloWorld from './components/HelloWorld';
-import Login from './components/Login';
+import React from "react"
+import HelloWorld from "./components/HelloWorld"
+import Login from "./components/Login"
 
 function App() {
   return (
-    <div className="App">
+    <div>
       <HelloWorld />
       <Login />
     </div>
-  );
+  )
 }
 
-export default App;
+export default App
